@@ -1,0 +1,5 @@
+# LICENSE: Apache License 2.0 (c) 2026 Markys Gariboldo. All rights reserved.
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: GLM_4_9B_CHAT_VOID_HD
+
+# Построен на базе стандартного json-парсера Python
+# Полная изоляция от внешнего сетевого шума
